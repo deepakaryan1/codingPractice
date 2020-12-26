@@ -26,7 +26,7 @@ Output:
 8 10 12 14 16 18 20 2 4 6
 
 Explanation :
-Testcase 1: 1 2 3 4 5  when rotated by 2 elements, it becomes 3 4 5 1 2.
+Testcase 1: 1 2 3 4 5  when rotated by 2 elements, it becomes 3 4 5 1 2.*/
  import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -54,7 +54,7 @@ class GFG
 	             System.out.println();
 	         }
 	 }
-}*/
+}
 
 class Solution{
     
